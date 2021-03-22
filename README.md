@@ -15,14 +15,14 @@ Implemented functions.
 
 ## Quick start 
 
-### Compile and burn-in
+### Compile & Burn
 + Download [Tuya IoTOS Embeded WiFi & BLE sdk](https://github.com/tuya/tuya-iotos-embeded-sdk-wifi-ble-bk7231t) 
 
 + Download the demo to the apps directory of the SDK 
 
   ```bash
   $ cd apps
-  $ git clone https://github.com/Tuya-Community/tuya-iotos-embeded-demo-wifi-ble-gps.git
+  $ git clone https://github.com/Tuya-Community/tuya-iotos-embeded-demo-wifi-ble-gps
   ```
   
 + Execute the following command in the SDK root directory to start compiling.
